@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-05T18:23:59" hostname="something" time="0.005">
+  <properties/>
+  <testcase name="getCommissionPrice_Visa_Mir" classname="MainKtTest" time="0.004"/>
+  <testcase name="getCommissionPrice_VK" classname="MainKtTest" time="0.0"/>
+  <testcase name="getCommissionPrice_Mastercard_spent_from_300_to_75000" classname="MainKtTest" time="0.0"/>
+  <testcase name="getCommissionPrice_Mastercard_spent_else" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

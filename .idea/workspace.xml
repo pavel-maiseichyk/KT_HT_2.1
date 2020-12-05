@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="297f1db8-dea9-4061-bdfe-1728a449df2d" name="Default Changelist" comment="" />
+    <list default="true" id="297f1db8-dea9-4061-bdfe-1728a449df2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,15 +37,18 @@
     </option>
   </component>
   <component name="ProjectId" id="1l1RP71uIowuPv8sLNNJwNNi25E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/KT_HT_2.1.1-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -178,6 +187,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="100" y="100" width="1720" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607192312636" />
+    <state x="743" y="278" width="424" height="485" key="FileChooserDialogImpl" timestamp="1607194826838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="278" width="424" height="485" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607194826838" />
+    <state x="818" y="419" width="284" height="202" key="Github.ShareDialog" timestamp="1607194639998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="419" width="284" height="202" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607194639998" />
+    <state x="712" y="176" width="486" height="689" key="Github.UntrackedFilesDialog" timestamp="1607194666233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="176" width="486" height="689" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607194666233" />
     <state width="1872" height="272" key="GridCell.Tab.0.bottom" timestamp="1607192636115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

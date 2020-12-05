@@ -1,0 +1,1 @@
+/home/pavel_maiseichyk/IdeaProjects/KT_HT_2.1.1/build/classes/kotlin/main/MainKt.class
