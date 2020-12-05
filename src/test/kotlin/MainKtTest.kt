@@ -45,6 +45,6 @@ class MainKtTest {
         val commissionPrice = getCommissionPrice(
                 transitionType, spentAlreadySum.toDouble(), transitionSum.toDouble()
         )
-        assertEquals(0.0, commissionPrice)
+        assertEquals(1.0, commissionPrice)
     }
 }

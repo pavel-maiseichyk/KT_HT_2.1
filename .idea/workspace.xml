@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="297f1db8-dea9-4061-bdfe-1728a449df2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="297f1db8-dea9-4061-bdfe-1728a449df2d" name="Default Changelist" comment=".gitignore fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +173,19 @@
       <option name="presentableId" value="Default" />
       <updated>1606762585995</updated>
     </task>
+    <task id="LOCAL-00001" summary=".gitignore fixed">
+      <created>1607196079737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607196079737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".gitignore fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="97" width="1024" height="846" key="#Project_Structure" timestamp="1607192648475">
@@ -199,22 +208,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="712" y="176" width="486" height="689" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607194666233" />
-    <state width="1872" height="272" key="GridCell.Tab.0.bottom" timestamp="1607192636115">
+    <state width="1872" height="272" key="GridCell.Tab.0.bottom" timestamp="1607196505750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1872" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607192636115" />
-    <state width="1872" height="272" key="GridCell.Tab.0.center" timestamp="1607192636114">
+    <state width="1872" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607196505750" />
+    <state width="1872" height="272" key="GridCell.Tab.0.center" timestamp="1607196505748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1872" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607192636114" />
-    <state width="1872" height="272" key="GridCell.Tab.0.left" timestamp="1607192636113">
+    <state width="1872" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607196505748" />
+    <state width="1872" height="272" key="GridCell.Tab.0.left" timestamp="1607196505747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1872" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607192636113" />
-    <state width="1872" height="272" key="GridCell.Tab.0.right" timestamp="1607192636115">
+    <state width="1872" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607196505747" />
+    <state width="1872" height="272" key="GridCell.Tab.0.right" timestamp="1607196505749">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1872" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607192636115" />
+    <state width="1872" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607196505749" />
+    <state x="555" y="256" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1607196094009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="256" width="800" height="529" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607196094009" />
     <state x="727" y="299" width="447" height="443" key="chooseDestDirectoryDialog" timestamp="1606762853762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
